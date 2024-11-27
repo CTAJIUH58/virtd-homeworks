@@ -29,6 +29,12 @@ Hey, Netology
 - Соберите и отправьте созданный образ в свой dockerhub-репозитории c tag 1.0.0 (ТОЛЬКО ЕСЛИ ЕСТЬ ДОСТУП). 
 - Предоставьте ответ в виде ссылки на https://hub.docker.com/<username_repo>/custom-nginx/general .
 
+### Ответ
+
+
+https://hub.docker.com/r/ctajiuh58/custom-nginx
+
+
 ## Задача 2
 1. Запустите ваш образ custom-nginx:1.0.0 командой docker run в соответвии с требованиями:
 - имя контейнера "ФИО-custom-nginx-t2"
@@ -39,6 +45,12 @@ Hey, Netology
 4. Убедитесь с помощью curl или веб браузера, что индекс-страница доступна.
 
 В качестве ответа приложите скриншоты консоли, где видно все введенные команды и их вывод.
+
+
+### Ответ
+
+
+![Ответ](https://github.com/CTAJIUH58/virtd-homeworks/blob/shvirtd-1/05-virt-03-docker-intro/02_1.png)
 
 
 ## Задача 3
@@ -57,6 +69,22 @@ Hey, Netology
 
 В качестве ответа приложите скриншоты консоли, где видно все введенные команды и их вывод.
 
+
+### Ответ
+
+
+![Ответ1](https://github.com/CTAJIUH58/virtd-homeworks/blob/shvirtd-1/05-virt-03-docker-intro/03_1.png)
+
+
+![Ответ2](https://github.com/CTAJIUH58/virtd-homeworks/blob/shvirtd-1/05-virt-03-docker-intro/03_2.png)
+
+
+![Ответ3](https://github.com/CTAJIUH58/virtd-homeworks/blob/shvirtd-1/05-virt-03-docker-intro/03_3.png)
+
+
+![Ответ4](https://github.com/CTAJIUH58/virtd-homeworks/blob/shvirtd-1/05-virt-03-docker-intro/03_4.png)
+
+
 ## Задача 4
 
 
@@ -68,6 +96,15 @@ Hey, Netology
 
 
 В качестве ответа приложите скриншоты консоли, где видно все введенные команды и их вывод.
+
+
+### Ответ
+
+
+![Ответ](https://github.com/CTAJIUH58/virtd-homeworks/blob/shvirtd-1/05-virt-03-docker-intro/04_1.png)
+
+
+![Ответ](https://github.com/CTAJIUH58/virtd-homeworks/blob/shvirtd-1/05-virt-03-docker-intro/04_2.png)
 
 
 ## Задача 5
@@ -116,6 +153,29 @@ services:
 7. Удалите любой из манифестов компоуза(например compose.yaml).  Выполните команду "docker compose up -d". Прочитайте warning, объясните суть предупреждения и выполните предложенное действие. Погасите compose-проект ОДНОЙ(обязательно!!) командой.
 
 В качестве ответа приложите скриншоты консоли, где видно все введенные команды и их вывод, файл compose.yaml , скриншот portainer c задеплоенным компоузом.
+
+
+### Ответ
+
+
+![Ответ1](https://github.com/CTAJIUH58/virtd-homeworks/blob/shvirtd-1/05-virt-03-docker-intro/05_1.png)
+
+
+![Ответ2](https://github.com/CTAJIUH58/virtd-homeworks/blob/shvirtd-1/05-virt-03-docker-intro/05_2.png)
+
+
+![Ответ3](https://github.com/CTAJIUH58/virtd-homeworks/blob/shvirtd-1/05-virt-03-docker-intro/05_3.png)
+
+
+![Ответ4](https://github.com/CTAJIUH58/virtd-homeworks/blob/shvirtd-1/05-virt-03-docker-intro/05_4.png)
+
+
+![Ответ5](https://github.com/CTAJIUH58/virtd-homeworks/blob/shvirtd-1/05-virt-03-docker-intro/05_5.png)
+
+
+![Ответ6](https://github.com/CTAJIUH58/virtd-homeworks/blob/shvirtd-1/05-virt-03-docker-intro/05_6.png)
+
+
 
 ---
 
